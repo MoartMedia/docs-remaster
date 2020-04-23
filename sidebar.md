@@ -59,6 +59,7 @@
     - [!지워](memory.md#지워)
     - [!찾아](memory.md#찾아)
   - [구독자](subscribe.md#구독자)
+    - [!구독설정](subscribe.md#구독설정)
     - [!말](subscribe.md#말)
     - [!뮤](subscribe.md#뮤)
     - [!인스타](subscribe.md#인스타)
