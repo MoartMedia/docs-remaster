@@ -1,9 +1,9 @@
 # 디스코드 마냥 봇
 
-- [디스코드](http://discordapp.com)(Discord)에서 사용할 수 있는 한글 봇(Bot)입니다.
+- [디스코드](http://discord.com)(Discord)에서 사용할 수 있는 한글 봇(Bot)입니다.
 - 봇 초대는 초대하려는 디스코드 서버에서 봇 초대 권한을 가진 사용자가 아래 링크로 초대할 수 있습니다.
 
-> <https://discordapp.com/oauth2/authorize?&client_id=218010938807287808&scope=bot&permissions=37014592>
+> <https://discord.com/oauth2/authorize?&client_id=218010938807287808&scope=bot&permissions=37014592>
 
 ## 이용 안내
 
