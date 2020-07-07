@@ -43,6 +43,7 @@
     - [!환율](search.md#환율)
     - [!검색](search.md#검색)
     - [!국어](search.md#국어)
+    - [!영어](search.md#영어)
     - [!사전](search.md#사전)
     - [!뉴스](search.md#뉴스)
     - [!영화](search.md#영화)
