@@ -15,6 +15,7 @@
     - [!청소](server.md#청소)
     - [!뮤트](server.md#뮤트)
     - [!킥](server.md#킥)
+    - [!슬로우](server.md#슬로우)
   - [게임](game.md#게임)
     - [!강화](game.md#강화)
     - [!주식](game.md#주식)
