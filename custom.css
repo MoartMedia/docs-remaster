@@ -1,0 +1,7 @@
+/* navbar custom */
+.app-nav > ul :hover{
+    color: var(--sidebar-name-color);
+}
+.app-nav a.active{
+    color: var(--sidebar-name-color);
+}
