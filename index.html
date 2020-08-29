@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" />
+  <link rel="stylesheet" href="./custom.css" />
   <script async src="//www.googletagmanager.com/gtag/js?id=UA-6145394-4"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -20,14 +21,15 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Discord Bot',
+      name: '디스코드 마냥 봇',
       loadSidebar: 'sidebar.md',
       subMaxLevel: 4,
       search: {
         placeholder: '명령어를 검색하세요.',
         noData: '검색 결과가 없습니다.',
         depth: 4
-      }
+      },
+      loadNavbar: true,
     }
   </script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/docsify/4.11.4/docsify.min.js"></script>
