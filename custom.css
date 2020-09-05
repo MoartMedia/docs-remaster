@@ -5,3 +5,30 @@
 .app-nav a.active{
     color: var(--sidebar-name-color);
 }
+
+.markdown-section a{
+    text-decoration: none;
+}
+
+.button
+{
+    width: 10em;
+    height: 2em;
+    margin: .5em;
+    cursor:pointer;
+    border-radius: 15px;
+    background: #7289da;
+}
+
+.button:hover
+{
+    filter: brightness(85%);
+}
+.button .wrapper
+{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}

@@ -2,11 +2,24 @@
 
 # 디스코드 마냥 봇
 
-<img src="./main.png" alt="마냥 봇 프로필"/>
+![마냥 봇 프로필](./main.png)  
+[![후원](https://img.shields.io/badge/후원-Donate-f96854?style=flat-square)](https://www.patreon.com/miaowing)
+[![봇 문의](https://img.shields.io/badge/문의%20서버-Discord-7289da?style=flat-square)](https://discord.gg/T3MFxj4)  
 
-[디스코드](http://discord.com)에서 사용할 수 있는 한글 봇(Bot)입니다.  
+**[디스코드](http://discord.com)** 에서 사용할 수 있는 한글 봇(Bot) 입니다.  
 봇 초대는 초대하려는 디스코드 서버에서 봇 초대 권한을  
-가진 사용자가 아래 링크로 초대할 수 있습니다.
+가진 사용자가 아래 버튼(링크)로 초대할 수 있습니다.
+
+<!-- 초대 버튼 부분 -->
+<div onClick="location.href='https://discord.com/oauth2/authorize?&client_id=218010938807287808&scope=bot&permissions=37014592'" class="button">
+	<div class="wrapper">
+		<div class="text">
+        <span>초대하기</span>
+        </div>
+	</div>
+</div>
+<!-- 초대 버튼 부분 END -->
+
 </div>
 
 ## 이용 안내

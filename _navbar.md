@@ -1,5 +1,3 @@
 - [홈](/)
 - [명령어](/command.md)
 - [봇 초대](https://discord.com/oauth2/authorize?&client_id=218010938807287808&scope=bot&permissions=37014592)
-- [문의](https://discord.gg/T3MFxj4)
-- [후원](https://www.patreon.com/miaowing)
